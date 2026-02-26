@@ -1,29 +1,30 @@
-/**
- * All
- */
-function ALL_ON() {
+function C_one () {
+	
 }
-function ALL_OFF() {
+// All
+function ALL_ON () {
+	
 }
-/**
- * One
- */
-function A_one() {
+function ALL_OFF () {
+	
 }
-function B_one() {
+// Two
+function A_two () {
+	
 }
-function C_one() {
+// One
+function A_one () {
+	
 }
-/**
- * Two
- */
-function A_two() {
+function B_one () {
+	
 }
-function B_two() {
+function B_two () {
+	
 }
-function C_two() {
+function C_two () {
+	
 }
-
 basic.forever(function () {
-
+	
 })
